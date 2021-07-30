@@ -1,7 +1,7 @@
 <template>
   <span>
-  <Toolbar/>
-    Merci !
+    <Toolbar />
+    Merci ! pouet pouet update !
     De retour ?
     <NuxtLink to="/">Pouet pouet</NuxtLink>
   </span>
